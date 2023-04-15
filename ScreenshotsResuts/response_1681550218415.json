@@ -1,0 +1,57 @@
+[
+  {
+    "emailId": "chris@contoso.com",
+    "firstName": "Chris",
+    "lastName": "Green",
+    "displayName": "Chris Green",
+    "jobTitle": "IT Manager",
+    "department": "Information Technology",
+    "officePhone": "123-555-1211",
+    "mobilePhone": "123-555-6641",
+    "country": "United States"
+  },
+  {
+    "emailId": "ben@contoso.com",
+    "firstName": "Ben",
+    "lastName": "Andrews",
+    "displayName": "Ben Andrews",
+    "jobTitle": "IT Manager",
+    "department": "Information Technology",
+    "officePhone": "123-555-1212",
+    "mobilePhone": "123-555-6642",
+    "country": "United States"
+  },
+  {
+    "emailId": "david@contoso.com",
+    "firstName": "David",
+    "lastName": "Longmuir",
+    "displayName": "David Longmuir",
+    "jobTitle": "IT Manager",
+    "department": "Information Technology",
+    "officePhone": "123-555-1213",
+    "mobilePhone": "123-555-6643",
+    "country": "United States"
+  },
+  {
+    "emailId": "cynthia@contoso.com",
+    "firstName": "Cynthia",
+    "lastName": "Carey",
+    "displayName": "Cynthia Carey",
+    "jobTitle": "IT Manager",
+    "department": "Information Technology",
+    "officePhone": "123-555-1214",
+    "mobilePhone": "123-555-6644",
+    "country": "United States"
+  },
+  {
+    "emailId": "melissa@contoso.com",
+    "firstName": "Melissa",
+    "lastName": "MacBeth",
+    "displayName": "Melissa MacBeth",
+    "jobTitle": "IT Manager",
+    "department": "Information Technology",
+    "officePhone": "123-555-1215",
+    "mobilePhone": "123-555-6645",
+    "country": "United States"
+  }
+]
