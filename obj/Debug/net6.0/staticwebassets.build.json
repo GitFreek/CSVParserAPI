@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TIXeCAnmAkBZbsMVavws+vEEICGslL5BtAfEzunrCYs=",
+  "Source": "CSVParserAPI",
+  "BasePath": "_content/CSVParserAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
